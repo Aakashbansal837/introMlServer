@@ -16,8 +16,5 @@
     "jsonwebtoken": "^8.5.0",
     "mdbreact": "^4.12.0",
     "mongoose": "^5.1.6"
-  },
-  "devDependencies": {
-    "nodemon": "^1.17.5"
   }
 }
