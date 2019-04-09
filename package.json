@@ -1,8 +1,11 @@
 {
   "name": "IntroML",
   "version": "1.0.0",
-  "description": "Shopping list built with the MERN stack",
+  "description": "app built with the MERN stack",
   "main": "server.js",
+  "engines": {
+    "node": "10.15.3"
+  },
   "scripts": {
     "client-install": "npm install --prefix client",
     "start": "node server.js",
